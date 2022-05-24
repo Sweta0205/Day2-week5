@@ -1,0 +1,48 @@
+h1{
+    color:pink
+}
+
+nav > span {
+    color:red;
+    }
+    
+    .jumbotron p a {
+        background-color: rebeccapurple;
+    }
+
+    .blog-post:first-of-type {
+        color:blue
+    }
+    .blog-post hr {
+        background-color: red;
+      }
+    nav :nth-last-child(even) {
+        background: purple;
+      }
+      
+      .mb-0 li a {
+        color: rgb(231, 17, 142);
+      }
+      
+      .blog-post:nth-of-type(2) .blog-post-meta a {
+        background-color: yellowgreen;
+    }
+    
+    .blog-post:nth-of-type(3)  li:nth-child(2){
+        background-color: yellowgreen;
+    }
+    .float-right 
+    {
+        background-color: yellowgreen;
+
+    }
+    .blog-pagination .btn:nth-child(2) {
+        background-color: blue;
+    }
+
+    .blog-footer .text-center a:last-of-type {
+        border: 1px solid blue;
+      }
+
+
+
